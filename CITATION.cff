@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Wind Ripples Simulation"
+abstract: "A two-dimensional numerical model of aeolian sand ripples, with the scripts to reproduce the article 'How do wind ripples become asymmetric? A model study of initiation, size and shape'."
+type: software
+authors:
+  - family-names: Brugmans
+    given-names: Freddy
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+keywords:
+  - aeolian ripples
+  - sand transport
+  - saltation
+  - numerical model
+references:
+  - type: article
+    authors:
+      - family-names: Brugmans
+        given-names: Freddy
+    title: "Wind ripples in an active drift sand area in The Netherlands: a preliminary report"
+    journal: "Earth Surface Processes and Landforms"
+    volume: 8
+    start: 527
+    end: 534
+    year: 1983
+    doi: 10.1002/esp.3290080604
