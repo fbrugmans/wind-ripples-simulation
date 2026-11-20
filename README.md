@@ -1,5 +1,7 @@
 # Wind Ripples Simulation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24323843.svg)](https://doi.org/10.5281/zenodo.24323843)
+
 A two-dimensional numerical model of aeolian sand ripples: grains saltate in a wind profile that they slow down
 themselves, impact, eject other grains, push bed grains forward (creep) and slide over the bed driven by the wind,
 while the bed shear stress and the direction of the wind over the ripples follow from linear flow theory for a rough,
@@ -121,7 +123,7 @@ Each run writes a compressed NumPy file. The main arrays (one row per record):
 ## Licence and citation
 
 The code is released under the MIT licence (`LICENSE`). The figures and the photograph are released under CC BY 4.0.
-How to cite this software is given in `CITATION.cff`.
+How to cite this software is given in `CITATION.cff`; the archived version is at Zenodo, https://doi.org/10.5281/zenodo.24323843.
 
 The model code, the runs, the analyses and the figures were made with Claude (Anthropic), at the direction of and in
 consultation with the author, who set the questions, the experiments and the choices and judged every result.
